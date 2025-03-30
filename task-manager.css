@@ -1,0 +1,49 @@
+body {
+    margin: 0 auto;
+    padding: 10px;
+    font-family: "Marcellus", serif;
+    max-width: 302px;
+    background-color: #E2ECFF;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: none;
+    background-color: #84BBF8;
+    border-radius: 8px;
+    margin-bottom: 4px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #FEF9D9;
+    font-family: "Marcellus", serif;
+    color: black;
+    padding: 10px 20px;
+    border: 1px solid #FFEF8A;
+    font-weight: bold;
+}
+
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+    margin-left: 25px;
+}
+
+a {
+    color: #5f9341;
+}
+
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
